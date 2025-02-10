@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+    font-family: 'Lucida Sans';
+    color: white;
+}
+.boxmodel{
+    background-color: violet;
+    text-align: center;
+    width: 400px;
+    margin:auto
+}
+h1{
+    font-family:'Lucida Sans';
+    font-size: 36px;
+    color: aliceblue;
+    padding-top: 10px;
+    text-align: center;
+}
+h2{
+    padding-top: 10px;
+    font-size: 20px;
+    margin: 0;
+}
+p{
+    font-family: 'Lucida Sans';
+    font-size: 12px;
+    text-align: justify;
+}
+ol{
+    font-family: 'Lucida Sans';
+    font-size: 12px;
+}

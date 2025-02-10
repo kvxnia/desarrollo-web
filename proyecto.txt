@@ -1,0 +1,4 @@
+base de datos:  MySQL
+*   Lenguaje de programación:  Python 
+*   forn con tailwindcss
+*   

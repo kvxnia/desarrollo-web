@@ -1,0 +1,43 @@
+/* Ejercicio 1 */
+.menu {
+    background-color: #333;
+    padding: 10px;
+  }
+  .menu a {
+    display: inline-block;
+    color: white;
+    padding: 10px;
+    margin-right: 15px;
+    text-decoration: none;
+  }
+  .menu a:hover {
+    border-bottom: 2px solid white;
+  }
+  
+  /* Ejercicio 2 */
+  .producto {
+    width: 250px;
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin: 20px;
+  }
+  .producto button {
+    background-color: #007bff;
+    padding: 8px;
+    color: white;
+    border: none;
+  }
+  
+  /* Ejercicio 6 */
+  .caja-linea {
+    background-color: #ffcccc;
+    padding: 5px;
+    margin-right: 10px;
+    border: 1px solid #000;
+  }
+  .caja-bloque {
+    background-color: #ccffcc;
+    width: 200px;
+    margin-top: 15px;
+    border: 1px solid #000;
+  }
